@@ -1,0 +1,10 @@
+Conclusiones:
+    En la prueba funcional automatizada (Prueba E2E), cada paso fue realizado correctamente.
+    A partir de un archivo ".env" donde fueron declarados los datos a usarse en toda la prueba,
+    se realizó comprobaciones de los datos utilizados con los mostrados en la web. Junto a los
+    "assertEqual".
+
+    En el reporte se puede observar la fecha en la cual fue realizada la prueba, además de
+    ver el ambiente en el cual se ejecutó.
+    En el tiempo de ejecución tenemos que la prueba fue realizada en 15.50 segundos y en los
+    resultados observamos que la prueba pasó correctamente.
