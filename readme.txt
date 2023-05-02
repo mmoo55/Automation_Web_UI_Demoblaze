@@ -5,12 +5,12 @@ Siga a detalle cada uno de los pasos siguientes:
 		    pip install pytest-html
 	    2 Instalar selenium
 		    pip install selenium
-	    3 Instalar chromedriver_autoinstaller
-	    	pip install chromedriver_autoinstaller
-	    4 Instalar edgedriver_autoinstaller
-	    	pip install edgedriver_autoinstaller
-	    5 Instalar geckodriver_autoinstaller
-	    	pip install geckodriver_autoinstaller
+	    3 Instalar chromedriver-autoinstaller
+	    	pip install chromedriver-autoinstaller
+	    4 Instalar edgedriver-autoinstaller
+	    	pip install edgedriver-autoinstaller
+	    5 Instalar geckodriver-autoinstaller
+	    	pip install geckodriver-autoinstaller
 	    6 Instalar dotenv
 	        pip install python-dotenv
 
